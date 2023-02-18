@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Ryan, a CS student at UCLA👋
 
 <!--
 **ryanmyang/ryanmyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭  I'm currently working on:
+- 🐶 Python controller code for a robot dog named Boelt with ASME at UCLA
+- 🚀 Leading UCLA Rocket Project's hybrid rocket team's software development. We're programming arduinos for data collection, and processing and transferring data with python to display on a custom React GUI
+- 🔄 React pages for USWAP, a UCLA startup for swapping and selling
+- ⌨️ Keyboard Armory, a small business where I design and run group buys on premium custom mechanical keyboard cases
