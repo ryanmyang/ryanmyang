@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭  I'm currently working on:
 - 🐶 Python and Arduino communication and controller for a robot dog named Boelt with ASME at UCLA
-- 🚀 Leading UCLA Rocket Project's hybrid rocket team's software development. We're programming arduinos for data collection, and processing and transferring data with python to display on a custom React GUI
-- 🔬 Sensor calibration and pose measurement systems using body tracking in C# and Unity in a UCLA bionics research lab
+- 🚀 Leading software development for Rocket Project at UCLA's hybrid propellant rocket. We're programming arduinos for data collection, and processing and transferring data with python to display on a custom React GUI
+- 🔬 Sensor calibration and pose measurement systems using body tracking in C# and Unity in the UCLA bionics research lab
 - 📄 A collaborative text editor React web app as project with my CS35L project group
 - ⌨️ Keyboard Armory, a business where I design and run group buys on premium custom ergonomic mechanical keyboard cases
