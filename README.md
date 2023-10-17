@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 -->
 
 🔭  I'm currently working on:
+- 🏠 Bruinrent, a web app for UCLA Bruins to more easily go through their apartment hunting journey
 - 📄 A customizable transcript summary creator, formatter, and processor powered by OpenAI, Python Flask, React.js, and Vercel
-- 🚀 Leading software development for Rocket Project at UCLA's liquid propellant rocket
-- 🍴Fork, a dish based diet and sustainability mobile app, with a passionate group of UCLA entrepreneurs
+- 🚀 Software development for Rocket Project at UCLA's liquid propellant rocket
+- 🍴 Fork, a dish based diet and sustainability mobile app, with a passionate group of UCLA entrepreneurs
 - ⌨️ Keyboard Armory, a business where I design and run group buys on premium custom ergonomic mechanical keyboard cases
 - 🔬 Range of motion measurement, quantification, and display systems using body tracking in C# and Unity in the UCLA bionics research lab
 
 
 I've previously worked on:
 - 🐶 Python and Arduino communication and controller for a robot dog named Boelt with ASME at UCLA https://github.com/UCLAX1/Boelt-Software
-- 🚀 Leading software development for Rocket Project at UCLA's hybrid propellant rocket. We're programming arduinos for data collection, and processing and transferring data with python to display on a custom React GUI. https://github.com/JackCadenhead/RocketProjectatUCLA/commits/main
+- 🚀 Leading software development systems for Rocket Project at UCLA's hybrid propellant rocket. We're programming arduinos for data collection, and processing and transferring data with python to display on a custom React GUI. https://github.com/JackCadenhead/RocketProjectatUCLA/commits/main
 - 📄 A collaborative text editor React web app as project with my CS35L project group
 - 🔬 Sensor and pose calibration systems using body tracking in C# and Unity in the UCLA bionics research lab
 
