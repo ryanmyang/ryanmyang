@@ -29,6 +29,7 @@ I've previously worked on:
 - 🚀 Leading software development systems for [Rocket Project at UCLA's hybrid propellant rocket](https://github.com/JackCadenhead/RocketProjectatUCLA/commits/main). We're programming arduinos for data collection, and processing and transferring data with python to display on a custom React GUI. 
 - 📄 A collaborative text editor React web app as project with my CS35L project group
 - 🔬 Sensor and pose calibration systems using body tracking in C# and Unity in the UCLA bionics research lab
+- 💊 [PillAI](https://devpost.com/software/pill-ai), a winning Hackathon project at LA Hacks 2024
 
 
 
