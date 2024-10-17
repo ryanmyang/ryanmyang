@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭  I'm currently working on:
 - 🔬 The UCLA bionics research lab's range of motion measurement, processing, interpretation, and display systems. Using [body tracking and virtual reality systems in C# and Unity](https://github.com/ryanmyang/Bionics-Research-Lab) along with [data processing in Python](https://github.com/ryanmyang/bionics-research-data-vis), I am helping to design ways to measure and understand stroke patients' range of motion and general mobility.
 - ⌨️ [Keyboard Armory](https://keyboardarmory.shop), a business where I design and sell premium custom ergonomic mechanical keyboard cases
-- External consulting projects with [BruinAI](https://www.linkedin.com/company/bruin-ai)
+- External technical consulting projects with [BruinAI](https://www.linkedin.com/company/bruin-ai)
 
 
 I've previously worked on:
